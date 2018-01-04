@@ -16,7 +16,6 @@
 			<p>
 				<a href ="algorithms/dynamic programming/01-theCoinChangeProblem.php">01-theCoinChangeProblem.php</a> | 
 				<a href = "https://www.hackerrank.com/challenges/the-coin-change-problem/problem" target="_blank">Hackerrank Link</a> 
-				<span>	<--- link may or may not work</span>
 			</p>
 		</ul>
 		<h2>Greedy</h2>
@@ -39,10 +38,6 @@
 			<p>
 				<a href ="algorithms/implementation/03-kangaroo.php">03-kangaroo.php</a> | 
 				<a href = "https://www.hackerrank.com/challenges/kangaroo/problem" target="_blank">Hackerrank Link</a> 
-			</p>
-			<p>
-				<a href ="algorithms/implementation/33-matrixLayerRotation.php">33-matrixLayerRotation.php</a>| 
-				<a href = "https://www.hackerrank.com/challenges/matrix-layer-rotation/problem" target="_blank">Hackerrank Link</a> 
 			</p>
 			<p>
 				<a href ="algorithms/implementation/48-theTimeInWords.php">48-theTimeInWords.php</a> | 
