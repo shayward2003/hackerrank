@@ -1,7 +1,3 @@
-<style>
-	.bold{font-weight:bold; text-transform: capitalize;}
-	span{font-size:10px; color:#ccc;}
-</style>
 
 <p align="center">
 	<a href="https://www.hackerrank.com/rshaghoulian">
