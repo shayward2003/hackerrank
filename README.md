@@ -1,3 +1,8 @@
+<style>
+	.bold{font-weight:bold; text-transform: capitalize;}
+	span{font-size:10px; color:#ccc;}
+</style>
+
 <p align="center">
 	<a href="https://www.hackerrank.com/rshaghoulian">
     	<img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
@@ -6,6 +11,7 @@
 <p>I use hackerrank as a fun way to challenge myself, if I find myself in a programming rut or just want to do a quick programming challenge I will pull up a hackerrank challenge and solve away.</p>
 
 <br>
+
 <div class="container">
 	<p class ="bold">algorithm</p>
 	<ul>
